@@ -10,9 +10,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: On [Linkedin](https://www.linkedin.com/in/anand-patel-98204a199/)
 - 😄 Check out my CV.
 <br />
-![](https://visitor-badge.laobi.icu/badge?page_id=devtechnocode.devtechnocode)
-[![Github](https://img.shields.io/github/followers/devtechnocode?label=Follow&style=social)](https://github.com/devtechnocode)
-<br />
+
 ## Find me on:
 <p align="center">
  <a href="https://devtechnocode.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
