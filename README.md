@@ -4,11 +4,11 @@
 **devtechnocode/devtechnocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-<img src=tps://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif>
 
-<p align="center">- 🌱 I’m currently learning Machine Learning<br />
-- 📫 How to reach me: On [Linkedin](https://www.linkedin.com/in/anand-patel-98204a199/)<br />
-- 😄 Check out my CV.</p>
+
+<p align="center">- 🌱 I’m currently learning Machine Learning     </p>
+<p align="center">- 📫 How to reach me: On Linkedin  </p>
+<p align="center">- 😄 Check out my CV.</p>
 <br />
 
 ## Find me on:
