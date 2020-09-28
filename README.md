@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Anand Patel
-<p align="center"><a href="https://github.com/robustTechie"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/devtechnocode"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-<p align="center"> <img src="https://octodex.github.com/images/hubot.jpg" height="170px" width="170px"> <img src="https://octodex.github.com/images/octocat-de-los-muertos.jpg" height="170px" width="170px"> <img src="https://octodex.github.com/images/inspectocat.jpg" height="170px" width="170px"></p>
+<p align="center">  <img src="https://octodex.github.com/images/inspectocat.jpg" height="170px" width="170px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/scubatocat.png" height="160px" width="160px">  <img src="https://octodex.github.com/images/catstello.png" height="160px" width="160px"></p>
 
 <!--
 **devtechnocode/devtechnocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
