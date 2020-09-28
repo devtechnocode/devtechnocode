@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Anand Patel
-
+<img src="https://raw.githubusercontent.com/devtechnocode/devtechnocode/master/img/github.gif" width=100>
 <!--
 **devtechnocode/devtechnocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
