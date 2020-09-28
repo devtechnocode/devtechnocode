@@ -1,5 +1,6 @@
-### Hi there 👋 I'm Anand Patel
-<p align="center"><a href="https://github.com/devtechnocode"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/devtechnocode"><img src="https://user-images.githubusercontent.com/41234408/90637369-87611d00-e249-11ea-958a-99fbac1e90eb.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="centre"><strong>Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm Anand Patel</strong></centre></p>
+
 
 <p align="center">  <img src="https://octodex.github.com/images/inspectocat.jpg" height="170px" width="170px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/scubatocat.png" height="160px" width="160px">  <img src="https://octodex.github.com/images/catstello.png" height="160px" width="160px"></p>
 
@@ -36,5 +37,7 @@ Here are some ideas to get you started: -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devtechnocode&show_icons=true&theme=tokyonight)<br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devtechnocode&theme=tokyonight)
+<p align="center"> <img src="https://octodex.github.com/images/jetpacktocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/Fintechtocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/surftocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/carlostocat.gif" height="160px" width="160px"></p>
+<p align="center"><a href="https://github.com/devtechnocode"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 
