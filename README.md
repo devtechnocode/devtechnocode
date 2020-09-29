@@ -1,5 +1,5 @@
 <p align="center"><a href="https://github.com/devtechnocode"><img src="https://user-images.githubusercontent.com/41234408/90637369-87611d00-e249-11ea-958a-99fbac1e90eb.gif" alt="Animated footer bars" width="100%"/></a></p>
-<p align="centre"><strong>Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm Anand Patel</strong></centre></p>
+<p align="centre"><strong>Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm Anand Patel</strong></p>
 
 
 <p align="center">  <img src="https://octodex.github.com/images/inspectocat.jpg" height="170px" width="170px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/scubatocat.png" height="160px" width="160px">  <img src="https://octodex.github.com/images/catstello.png" height="160px" width="160px"></p>
