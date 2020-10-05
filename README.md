@@ -21,8 +21,8 @@ Here are some ideas to get you started: -->
 
 
 <p align="center">
-	<a> <strong> Find me on: <span style="font-family:Papyrus; font-size:10em;"></span> </strong></a>
-</p>
+	<a> <strong> Find me on: <span style="font-family:Papyrus; font-size:30em;"></span> </strong></a>
+</p><br>
 
 <p align="center">
  <a href="https://devtechnocode.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
@@ -34,8 +34,8 @@ Here are some ideas to get you started: -->
 </p>
 
 <p align="center">
-	<a> <strong>Languages and Tools: <span style="font-family:Papyrus; font-size:10em;"></span> </strong></a>
-</p>
+	<a> <strong>Languages and Tools: <span style="font-family:Papyrus; font-size:30em;"></span> </strong></a>
+</p><br>
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html" height="40" style="vertical-align:top; margin:4px">
