@@ -3,6 +3,11 @@
 <p align="center">
 	<a> <strong> Hi there, I'm Anand Patel <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> </strong></a>
 </p>
+<p align="center">
+<a href="https://twitter.com/devtechnocode"><img src="https://img.shields.io/badge/twitter-@devtechnocode-1da1f2?style=flat-square&logo=twitter">  </a>
+<a href="https://www.linkedin.com/in/devtechnocode/"><img src="https://img.shields.io/badge/linkedin-devtechnocode-0077b5?style=flat-square&logo=linkedin">  </a>
+<a href="https://devtechnocode.github.io/"><img src="https://img.shields.io/badge/website-devtechnocode.github.io-1f425f?style=flat-square">  </a>
+</p>
 
 <p align="center">  <img src="https://octodex.github.com/images/inspectocat.jpg" height="170px" width="170px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/scubatocat.png" height="160px" width="160px">  <img src="https://octodex.github.com/images/catstello.png" height="160px" width="160px"></p>
 
@@ -20,14 +25,7 @@ Here are some ideas to get you started: -->
 
 
 
-<p align="center">
-	<a> <strong> Find me on: <span style="font-family:Papyrus; font-size:30em;"></span> </strong></a>
-</p><br>
 
-<p align="center">
- <a href="https://devtechnocode.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/devtechnocode" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:anand25699@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
 
 <br />
