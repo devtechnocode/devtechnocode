@@ -9,7 +9,6 @@
 <a href="https://devtechnocode.github.io/"><img src="https://img.shields.io/badge/website-devtechnocode.github.io-1f425f?style=flat-square">  </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=devtechnocode)
 
 <p align="center">  <img src="https://octodex.github.com/images/inspectocat.jpg" height="170px" width="170px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/scubatocat.png" height="160px" width="160px">  <img src="https://octodex.github.com/images/catstello.png" height="160px" width="160px"></p>
 
