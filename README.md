@@ -18,7 +18,7 @@
 Here are some ideas to get you started: -->
 
 
-<p align="center">- 🌱 I’m currently learning Machine Learning     </p>
+<p align="center">- 🌱 I’m currently learning Android software development    </p>
 <p align="center">- 📫 How to reach me: On Linkedin  </p>
 <p align="center">- 😄 Check out my CV.</p>
 <br />
