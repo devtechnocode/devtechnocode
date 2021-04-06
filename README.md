@@ -19,7 +19,7 @@ Here are some ideas to get you started: -->
 
 
 <p align="center">- 🌱 I’m currently learning Android software development    </p>
-<p align="center">- 📫 How to reach me: On Linkedin  </p>
+<p align="center">- 📫 How to reach me: On < a href="https://www.linkedin.com/in/anand-patel-98204a199/"> @Linkedin</a> and ping me on<a href="https://t.me/devtechnocode">@telegram</a></p>
 <p align="center">- 😄 Check out my CV.</p>
 <br />
 
